@@ -1,7 +1,7 @@
 # Calendar Booking Application
 
 ## Overview
-The Calendar Booking Application is a full-stack project designed to manage bookings efficiently. It consists of a backend built with Node.js and Express, and a frontend mobile application built using Flutter. The application allows users to create, view, and manage bookings with ease.
+The Calendar Booking Application is a full-stack project designed to manage bookings efficiently. It consists of a backend built with Node.js and Express, and a frontend web application built using Flutter. The application allows users to create, view, and manage bookings with ease.
 
 ## Features
 ### Backend

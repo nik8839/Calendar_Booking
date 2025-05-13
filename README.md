@@ -10,7 +10,7 @@ The Calendar Booking Application is a full-stack project designed to manage book
 - **View All Bookings**: Retrieve a list of all bookings.
 
 ### Frontend
-- **User-Friendly Interface**: A Flutter-based mobile app with an intuitive UI.
+- **User-Friendly Interface**: A Flutter-based web app with an intuitive UI.
 - **Date and Time Pickers**: Allows users to select start and end times for bookings.
 - **Real-Time Clock**: Displays the current time in the app.
 - **Error Handling**: Provides feedback for invalid inputs or server errors.

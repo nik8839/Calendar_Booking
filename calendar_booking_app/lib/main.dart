@@ -66,7 +66,8 @@ class _BookingPageState extends State<BookingPage> {
     );
     final endDateTime = _combineDateTime(_selectedEndDate!, _selectedEndTime!);
 
-    final url = Uri.parse('http://localhost:5000/bookings');
+    // final url = Uri.parse('http://localhost:5000/bookings');
+    final url = Uri.parse('https://calendarbooking-production.up.railway.app/bookings');
 
     try {
       final response = await http.post(
